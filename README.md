@@ -15,5 +15,4 @@ console.log("result:", block.join("\n"));
 var nf = new NeighborFinder(sampleArray);
 var block = nf.getNeighbors(2, 2);
 var anotherBlock = nf.getNeighbors(8, 8);
-//# sourceMappingURL=app.js.map
 ```
