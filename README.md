@@ -1,5 +1,5 @@
 # 2d-neighbor-finder
-Tool to find a neighbor (same digit) cells block in a matrix.
+A tool to find a neighbor (same digit) cells block in a matrix.
 Just a tiny JS demo. Should not be considered as a serious lib.
 
 # Usage
